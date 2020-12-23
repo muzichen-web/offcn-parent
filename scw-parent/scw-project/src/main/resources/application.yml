@@ -26,8 +26,8 @@ eureka:
 oss:
   endpoint: http://oss-cn-beijing.aliyuncs.com
   bucketDomain: baiboli.oss-cn-beijing.aliyuncs.com
-  accessKeyId: LTAI4G4vmQuxeojo5PmrmFNj
-  accessKeySecret: UHw0sQRpeOwYVqPpyzzga5N9g9yjGC
+  accessKeyId: xxxxx
+  accessKeySecret: xxxxx
   bucketName: baiboli
 
 
